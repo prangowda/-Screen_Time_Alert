@@ -1,0 +1,4 @@
+{
+    "screen_time_limit": 120,   // Alert after 120 minutes (2 hours)
+    "alert_interval": 30        // Notify every 30 minutes if exceeded
+}
